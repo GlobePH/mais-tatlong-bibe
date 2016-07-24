@@ -1,0 +1,18 @@
+For /src/php/server
+
+Requirements:
+1. elasticsearch-2.3.3 
+Distributed, scalable, and highly available. Real-time search and analytics capabilities Sophisticated RESTful API for Big Data projects.
+@https://www.elastic.co/downloads/elasticsearch
+
+2. composer1.0.0-alpha8
+Dependency Manager for PHP
+@https://getcomposer.org/
+
+3. prediction.io
+Open source machine learning server piped through elasticsearch for software developers to create predictive features, such as personalization, recommendation and discovery.
+@http://prediction.io/ 
+
+4. pusher2.2
+A simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
+@https://pusher.com/
