@@ -23,13 +23,13 @@ IHAP provides a form where responsible unit can input the data that highly matte
 
 <li>The submitted data is then converted to charts in a web application accessed by the command center. It will be the basis for a suggested supplies distribution plan and manpower deployment.</li>
 <li>The data update is also available in the app for the end users.</li></ul>
-<h3>3. To easily validate the submitted reports, IHAP allows the general public to submit disaster photos or videos.</h3>
+<h4>3. To easily validate the submitted reports, IHAP allows the general public to submit disaster photos or videos.</h4>
 <ul><li>The photo and video submissions allow the NDRRMC command center to verify the authenticity of the reports submitted by the LGUs by capturing the real scenario that numbers cannot convey.</li></ul>
-<h3>4. IHAP also provides a monitoring of evacuation centers around the country.</h3>
+<h4>4. IHAP also provides a monitoring of evacuation centers around the country.</h4>
 <ul><li>IHAP allows the authorized agency to submit and update evacuee count after the disaster. This way, proper relief activity will be executed. </li></ul>
-<h3>5. Moreover, IHAP provides a real time monitoring of rescue and relief responses deployed by the command center.</h3> 
+<h4>5. Moreover, IHAP provides a real time monitoring of rescue and relief responses deployed by the command center.</h4> 
 <ul><li>IHAP allows a transparent and efficient disaster response by giving the general public access to operations’ status.</li></ul>
-<h3>6. Other features:</h3>
+<h4>6. Other features:</h4>
 <ul><li>IHAP allows a transparent and efficient disaster response by giving the general public access to operations’ status.</li>
 <li>An announcement feature is also included in the IHAP. It provides information to end users based on feeds from reliable sources (i.e. DOST, Pagasa, Phivolcs etc.)</li></ul>
 
