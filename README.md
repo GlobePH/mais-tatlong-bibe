@@ -9,13 +9,15 @@ IHAP is an open platform which aims to be integrated with processes and systems 
 <h2>HOW IT WORKS:</h2>
 <ul>
 <li> 1. IHAP provides a platform where Local Government Units (Barangay Development Council) can quickly create and submit reports.
+<ol>
+<li>
 •	IHAP provides a form where responsible unit can input the data that highly matters to the NDRRMC’s command center:
 	Fatalities
 	Injuries
 	Missing
 	Hospitalized
 	Evacuated
-	Sheltered </li>
+	Sheltered</li></ol> </li>
 <li> 2. IHAP provides the command center with summarized data which helps in making decisions.  
 •	An SMS message containing a summary from the LGU to the command center through Globe Labs SMS API. 
 
